@@ -1183,7 +1183,7 @@ a:focus {
     width: 12px;
     height: 12px;
     border-radius: 50%;
-    background: #fbaf32;
+    background: #327cfb;
 }
 
 .testimonial .owl-dot.active {
@@ -1247,7 +1247,7 @@ a:focus {
 }
 
 .blog .blog-meta i {
-    color: #fbaf32;
+    color: #326efb;
     margin-right: 5px;
 }
 
@@ -1269,16 +1269,16 @@ a:focus {
 }
 
 .blog .pagination .page-link {
-    color: #fbaf32;
+    color: #326efb;
     border-radius: 5px;
-    border-color: #fbaf32;
+    border-color: #326efb;
     margin: 0 2px;
 }
 
 .blog .pagination .page-link:hover,
 .blog .pagination .page-item.active .page-link {
     color: #ffffff;
-    background: #fbaf32;
+    background: #326efb;
 }
 
 .blog .pagination .disabled .page-link {
@@ -1324,15 +1324,15 @@ a:focus {
     padding: 7px 15px;
     font-size: 14px;
     font-weight: 400;
-    color: #fbaf32;
+    color: #326efb;
     border: 1px solid #dddddd;
     border-radius: 5px;
 }
 
 .single .single-tags a:hover {
     color: #ffffff;
-    background: #fbaf32;
-    border-color: #fbaf32;
+    background: #326efb;
+    border-color: #326efb;
 }
 
 .single .single-bio {
@@ -1411,7 +1411,7 @@ a:focus {
 }
 
 .single .post-item .post-text a:hover {
-    color: #fbaf32;
+    color: #326efb;
 }
 
 .single .post-item .post-meta {
@@ -1453,7 +1453,7 @@ a:focus {
     align-items: center;
     justify-content: center;
     color: #ffffff;
-    background: #fbaf32;
+    background: #326efb;
     font-size: 16px;
     transition: .3s;
 }
@@ -1525,7 +1525,7 @@ a:focus {
 }
 
 .single .comment-text .btn:hover {
-    background: #fbaf32;
+    background: #326efb;
 }
 
 .single .comment-form {
@@ -1587,7 +1587,7 @@ a:focus {
     height: 2px;
     bottom: 0;
     left: 0;
-    background: #fbaf32;
+    background: #326efb;
 }
 
 .sidebar .sidebar-widget .search-widget {
@@ -1611,7 +1611,7 @@ a:focus {
     height: 40px;
     padding: 0;
     font-size: 25px;
-    color: #fbaf32;
+    color: #326efb;
     background: none;
     border-radius: 0;
     border: none;
@@ -1632,7 +1632,7 @@ a:focus {
 
 .sidebar .tab-post .nav.nav-pills .nav-link {
     color: #ffffff;
-    background: #fbaf32;
+    background: #326efb;
     border-radius: 0;
 }
 
@@ -1679,7 +1679,7 @@ a:focus {
     content: '\f105';
     font-family: 'Font Awesome 5 Free';
     font-weight: 900;
-    color: #fbaf32;
+    color: #326efb;
     left: 1px;
 }
 
@@ -1699,15 +1699,15 @@ a:focus {
     padding: 7px 15px;
     font-size: 14px;
     font-weight: 400;
-    color: #fbaf32;
+    color: #326efb;
     border: 1px solid #dddddd;
     border-radius: 5px;
 }
 
 .single .tag-widget a:hover {
     color: #ffffff;
-    background: #fbaf32;
-    border-color: #fbaf32;
+    background: #326efb;
+    border-color: #326efb;
 }
 
 .sidebar .image-widget {
@@ -1756,7 +1756,7 @@ a:focus {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #fbaf32;
+    background: #326efb;
     border-radius: 50px;
 }
 
@@ -1788,7 +1788,7 @@ a:focus {
 .contact .contact-social a {
     margin-right: 10px;
     font-size: 18px;
-    color: #fbaf32;
+    color: #326efb;
 }
 
 .contact .contact-social a:hover {
@@ -1850,7 +1850,7 @@ a:focus {
     padding-bottom: 10px;
     font-size: 22px;
     font-weight: 700;
-    color: #fbaf32;
+    color: #326efb;
 }
 
 .footer .footer-contact h2::after,
@@ -1878,17 +1878,17 @@ a:focus {
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
     margin-right: 10px;
-    color: #fbaf32;
+    color: #326efb;
 }
 
 .footer .footer-link a:hover {
-    color: #fbaf32;
+    color: #326efb;
     letter-spacing: 1px;
 }
 
 .footer .footer-contact p i {
     width: 25px;
-    color: #fbaf32;
+    color: #326efb;
 }
 
 .footer .footer-social {
@@ -1905,7 +1905,7 @@ a:focus {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #fbaf32;
+    background: #326efb;
     border-radius: 35px;
     font-size: 16px;
     color: #ffffff;
@@ -1927,7 +1927,7 @@ a:focus {
 .footer .footer-newsletter input {
     height: 60px;
     background: transparent;
-    border: 1px solid #fbaf32;
+    border: 1px solid #326efb;
     border-radius: 5px;
 }
 
@@ -1956,7 +1956,7 @@ a:focus {
 }
 
 .footer .copyright p a {
-    color: #fbaf32;
+    color: #326efb;
 }
 
 .footer .copyright p a:hover {
