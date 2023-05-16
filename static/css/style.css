@@ -20,7 +20,7 @@ h6 {
 a {
     font-family: 'Nunito', sans-serif;
     font-weight: 600;
-    color: #fbaf32;
+    color: #9ad07d;
     transition: .3s;
 }
 
@@ -38,14 +38,14 @@ a:focus {
     font-size: 16px;
     font-weight: 600;
     color: #ffffff;
-    background: #fbaf32;
-    border: 2px solid #fbaf32;
+    background: #326efb;
+    border: 2px solid #326efb;
     border-radius: 5px;
     transition: .5s;
 }
 
 .btn.custom-btn:hover {
-    color: #fbaf32;
+    color:#326efb;
     background: transparent;
 }
 
@@ -62,7 +62,7 @@ a:focus {
 .back-to-top {
     position: fixed;
     display: none;
-    background: #fbaf32;
+    background: #326efb;
     width: 44px;
     height: 44px;
     text-align: center;
@@ -109,7 +109,7 @@ a:focus {
 
 .navbar .navbar-brand {
     margin: 0;
-    color: #fbaf32;
+    color: #326efb;
     font-size: 45px;
     line-height: 0px;
     font-weight: 700;
@@ -123,11 +123,11 @@ a:focus {
 }
 
 .navbar .navbar-brand:hover {
-    color: #fbaf32;
+    color: #326efb;
 }
 
 .navbar .navbar-brand:hover span {
-    color: #fbaf32;
+    color: #326efb;
 }
 
 .navbar .navbar-brand img {
@@ -157,11 +157,11 @@ a:focus {
     }
     
     .navbar .navbar-brand {
-        color: #fbaf32;
+        color: #326efb;
     }
     
     .navbar.nav-sticky .navbar-brand {
-        color: #fbaf32;
+        color: #326efb;
     }
 
     .navbar-light .navbar-nav .nav-link,
@@ -180,12 +180,12 @@ a:focus {
 
     .navbar-light .navbar-nav .nav-link:hover,
     .navbar-light .navbar-nav .nav-link.active {
-        color: #fbaf32;
+        color: #326efb;
     }
     
     .navbar-light.nav-sticky .navbar-nav .nav-link:hover,
     .navbar-light.nav-sticky .navbar-nav .nav-link.active {
-        color: #fbaf32;
+        color: #326efb;
     }
 }
 
@@ -196,7 +196,7 @@ a:focus {
     }
     
     .navbar .navbar-brand {
-        color: #fbaf32;
+        color: #326efb;
     }
     
     .navbar .navbar-nav {
@@ -283,7 +283,7 @@ a:focus {
 }
 
 .carousel .carousel-text h1 span {
-    color: #fbaf32;
+    color: #326efb;
 }
 
 .carousel .carousel-text p {
@@ -378,7 +378,7 @@ a:focus {
 
 .page-header h2 {
     position: relative;
-    color: #fbaf32;
+    color: #326efb;
     font-size: 60px;
     font-weight: 700;
 }
@@ -403,7 +403,7 @@ a:focus {
     top: -1px;
     right: -7px;
     text-align: center;
-    color: #fbaf32;
+    color: #326efb;
 }
 
 .page-header a:last-child::after {
@@ -485,7 +485,7 @@ a:focus {
 
 .booking .booking-form {
     padding: 60px 30px;
-    background: #fbaf32;
+    background: #326efb;
 }
 
 .booking .booking-form .control-group {
@@ -533,7 +533,7 @@ a:focus {
 
 .booking .booking-form .btn.custom-btn {
     width: 100%;
-    color: #fbaf32;
+    color: #326efb;
     background: #ffffff;
     border: 1px solid #ffffff;
 }
@@ -574,7 +574,7 @@ a:focus {
 .food .food-item i {
     position: relative;
     display: inline-block;
-    color: #fbaf32;
+    color: #326efb;
     font-size: 60px;
     line-height: 60px;
     margin-bottom: 20px;
@@ -592,7 +592,7 @@ a:focus {
     height: calc(100% + 20px);
     top: -20px;
     left: -15px;
-    border: 3px dotted #fbaf32;
+    border: 3px dotted #326efb;
     border-right: transparent;
     border-bottom: transparent;
     border-radius: 100px;
@@ -622,7 +622,7 @@ a:focus {
     height: 1px;
     bottom: 0;
     left: calc(50% - 25px);
-    background: #fbaf32;
+    background: #326efb;
     transition: .3s;
 }
 
@@ -684,7 +684,7 @@ a:focus {
     display: block;
     width: 100px;
     height: 100px;
-    background: #fbaf32;
+    background: #326efb;
     border-radius: 50%;
     animation: pulse-border 1500ms ease-out infinite;
 }
@@ -699,7 +699,7 @@ a:focus {
     display: block;
     width: 100px;
     height: 100px;
-    background: #fbaf32;
+    background: #326efb;
     border-radius: 50%;
     transition: all 200ms;
 }
@@ -852,7 +852,7 @@ a:focus {
     height: 40px;
     top: -10px;
     left: 20px;
-    background: #fbaf32;
+    background: #326efb;
     border-radius: 30px;
     z-index: -1;
 }
@@ -881,7 +881,7 @@ a:focus {
 }
 
 .menu .menu-tab .nav.nav-pills .nav-link {
-    background: #fbaf32;
+    background: #326efb;
     border-radius: 5px;
     margin: 0 5px;
 }
@@ -951,7 +951,7 @@ a:focus {
     display: inline-block;
     float: right;
     padding-left: 5px;
-    color: #fbaf32;
+    color: #326efb;
     background: #ffffff;
 }
 
@@ -1046,7 +1046,7 @@ a:focus {
     border-radius: 40px;
     font-size: 16px;
     color: #ffffff;
-    background: #fbaf32;
+    background: #326efb;
     opacity: 0;
 }
 
