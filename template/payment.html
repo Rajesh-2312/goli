@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-
+{% extends "base.html" %}
 <html>
     <head>
         <title>payment</title>
@@ -8,6 +8,7 @@
         <h1>Payment</h1>
         <p>Amount = Rs{{amount}}</p>
         <button type="submit" id="rzp-button1">Pay</button>
+        
         <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
         <script>
 var options = {
